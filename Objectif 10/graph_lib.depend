@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1522839381 source:c:\users\thomas hekimyan\downloads\graph lib\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+
+1522839168 c:\users\thomas hekimyan\downloads\graph lib\graph_lib_exemple_graph\graph.h
+	<fstream>
+	<iostream>
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522539041 c:\users\thomas hekimyan\downloads\graph lib\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1509222372 c:\users\thomas hekimyan\downloads\graph lib\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1522575424 c:\users\thomas hekimyan\downloads\graph lib\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1522636616 c:\users\thomas hekimyan\downloads\graph lib\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522575069 source:c:\users\thomas hekimyan\downloads\graph lib\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522515823 source:c:\users\thomas hekimyan\downloads\graph lib\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522636919 source:c:\users\thomas hekimyan\downloads\graph lib\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1522657075 source:c:\users\thomas hekimyan\downloads\graph lib\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
+1522841003 source:c:\users\thomas hekimyan\desktop\objectif 10\graph.cpp
+	"graph.h"
+
+1522848639 c:\users\thomas hekimyan\desktop\objectif 10\graph.h
+	<fstream>
+	<iostream>
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522539041 c:\users\thomas hekimyan\desktop\objectif 10\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1509222372 c:\users\thomas hekimyan\desktop\objectif 10\grman\grman_couleurs.h
+
+1522575424 c:\users\thomas hekimyan\desktop\objectif 10\grman\coords.h
+	<cmath>
+
+1522636616 c:\users\thomas hekimyan\desktop\objectif 10\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522575069 source:c:\users\thomas hekimyan\desktop\objectif 10\grman\coords.cpp
+	"coords.h"
+
+1522515823 source:c:\users\thomas hekimyan\desktop\objectif 10\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522636919 source:c:\users\thomas hekimyan\desktop\objectif 10\grman\widget.cpp
+	"widget.h"
+
+1522657075 source:c:\users\thomas hekimyan\desktop\objectif 10\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
